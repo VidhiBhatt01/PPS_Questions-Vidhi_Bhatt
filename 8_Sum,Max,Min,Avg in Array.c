@@ -2,7 +2,7 @@
 
 int main()
 {
-    // Que = Read 10 numbers from user and store them in an array. Display sum, max, mix and average of the numbers
+    // Que = Read 10 numbers from user and store them in an array. Display sum, max, min and average of the numbers
      int a[10],i,max,min,sum=0;
      for(i=0;i<10;i++)
      {
